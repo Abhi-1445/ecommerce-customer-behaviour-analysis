@@ -18,7 +18,7 @@ This project focuses on analyzing **customer behaviour in an e-commerce environm
 
 ## 📊 Dataset
 
-* Source: E-commerce dataset
+* Source: Shopify Company Dataset
 * Contains:
 
   * Customer details (Age, Gender, Location)
@@ -32,10 +32,9 @@ This project focuses on analyzing **customer behaviour in an e-commerce environm
 
 * **Python**
 * **Pandas & NumPy**
-* **Matplotlib & Seaborn**
 * **Jupyter Notebook**
+* **MySQL & Power BI**
 * **Excel / CSV Data**
-* (Optional: Power BI / SQL if used)
 
 ---
 
@@ -51,7 +50,7 @@ This project focuses on analyzing **customer behaviour in an e-commerce environm
 
 ## 📈 Key Insights
 
-* Identified high-value customers based on spending
+* Identified average customers spending
 * Found most popular product categories
 * Analyzed customer purchase frequency
 * Discovered trends based on demographics
@@ -64,8 +63,8 @@ This project focuses on analyzing **customer behaviour in an e-commerce environm
 ```
 📂 ecommerce-customer-behaviour-analysis
  ┣ 📂 data
- ┣ 📂 notebooks
- ┣ 📂 images
+ ┣ 📂 business requirements
+ ┣ 📂 sql analysis
  ┣ 📜 analysis.ipynb
  ┣ 📜 README.md
 ```
@@ -88,11 +87,13 @@ cd ecommerce-customer-behaviour-analysis
 
 3. Open Jupyter Notebook:
 
-```bash
-jupyter notebook
-```
-
 4. Run the notebook step by step
+
+5. Business questions and answers in sql
+```bash
+cd ecommerce-customer-behaviour-analysis/Business requirements & SQL ans
+```
+7. Explore dashboard view on Power BI
 
 ## 💡 Business Recommendations
 
