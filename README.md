@@ -15,7 +15,7 @@ This project focuses on analyzing **customer behaviour in an e-commerce environm
 * Improve customer retention and marketing strategies
 
 ---
-### 🏢 Customer Behaviour Analysis Dashboard
+### 🛒 Customer Behaviour Analysis Dashboard
 
 ![Dashboard](dashboard.png)
 
