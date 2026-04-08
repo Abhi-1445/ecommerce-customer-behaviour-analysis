@@ -79,6 +79,7 @@ FROM mytable
 WHERE previous_purchases > 5
 GROUP BY subscription_status;
 desc mytable
+       
 -- Q10. What is the revenue contribution of each age group? 
 SELECT age_group, SUM(purchase_amount) AS total_revenue
 FROM mytable
