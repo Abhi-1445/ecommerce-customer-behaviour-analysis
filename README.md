@@ -34,7 +34,7 @@ This project focuses on analyzing **customer behaviour in an e-commerce environm
 * **Pandas & NumPy**
 * **Jupyter Notebook**
 * **MySQL & Power BI**
-* **Excel / CSV Data**
+* **CSV Data**
 
 ---
 
